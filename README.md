@@ -4,4 +4,4 @@ Implementing fundamental algorithms of machine learning:
 - K-Nearest Neighbor
 - Support Vector Machine (SVM)
 - K-Mean Clustering  
-See Project Note.pfd for further details and 
+**See Project Note.pfd for further details and **
